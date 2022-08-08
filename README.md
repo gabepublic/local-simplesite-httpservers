@@ -22,7 +22,7 @@ In addition, we show deployment of the simple web site to "Render.com".
 
 - Clone this repo
 
-- Note: the `build` folder contains a very simple web site that will be served
+- Note: the `src` folder contains a very simple web site that will be served
   by the simple http-server
 
 
@@ -44,7 +44,7 @@ npm install http-server
 npm run http-server
 
 # alternative
-npx http-server ./build -p 8000
+npx http-server ./src -p 8000
 ```
 
 - Open browser and go to `http://localhost:8000`
