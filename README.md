@@ -94,6 +94,14 @@ chmod +x run-py-server.sh
 
 ## Deploy
 
+- Register an account with [Render.com](https://render.com/)
+
+- Render documentation for [Static Sites](https://render.com/docs/static-sites)
+
+- Deployment by linking this Github repo to Render
+
+- Note: Static sites on Render are free, with no cost at all unless the
+  traffics go above 100 GB of bandwidth per month.
 
 
 ## References
