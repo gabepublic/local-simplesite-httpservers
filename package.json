@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "serve": "^14.0.1"
+  },
+  "scripts": {
+    "http-server": "http-server ./src -p 8000",
+    "serve": "serve -s src -l 8000"
+  }
+}
