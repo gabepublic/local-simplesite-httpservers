@@ -13,6 +13,10 @@ In addition, we show deployment of the simple website to:
 
 - "Render.com"
 
+Also, the `index.html` page contains the `Login` link that integrates
+with AWS Cognito, as well as the `loggedin.html` has `Logout` link that
+logout from aws cognito.
+
 ## Prerequisite
 
 - [Node.js & NPM](https://digitalcompanion.gitbook.io/home/setup/node.js)
